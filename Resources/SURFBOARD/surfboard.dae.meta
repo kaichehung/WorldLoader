@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: 1df1a5eb90965b8498ec26262114616f
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Fin_Box
+    100002: Fin_Box 1
+    100004: Half_Board
+    100006: Half_Board 1
+    100008: ID102
+    100010: ID108
+    100012: ID114
+    100014: ID120
+    100016: ID134
+    100018: ID140
+    100020: ID146
+    100022: ID152
+    100024: ID34
+    100026: ID42
+    100028: ID50
+    100030: ID58
+    100032: ID72
+    100034: ID78
+    100036: ID84
+    100038: ID90
+    100040: instance_0
+    100042: instance_1
+    100044: instance_2
+    100046: instance_3
+    100048: instance_4
+    100050: instance_5
+    100052: //RootNode
+    100054: Skeg
+    100056: Skeg 1
+    100058: skp_camera_E_Ortho
+    100060: skp_camera_F_Fl
+    100062: skp_camera_Last_Saved_SketchUp_View
+    100064: skp_camera_N_Ortho
+    100066: skp_camera_S_Ortho
+    100068: skp_camera_SE_Persp
+    100070: skp_camera_SW_Persp
+    100072: skp_camera_W_Ortho
+    100074: String
+    400000: Fin_Box
+    400002: Fin_Box 1
+    400004: Half_Board
+    400006: Half_Board 1
+    400008: ID102
+    400010: ID108
+    400012: ID114
+    400014: ID120
+    400016: ID134
+    400018: ID140
+    400020: ID146
+    400022: ID152
+    400024: ID34
+    400026: ID42
+    400028: ID50
+    400030: ID58
+    400032: ID72
+    400034: ID78
+    400036: ID84
+    400038: ID90
+    400040: instance_0
+    400042: instance_1
+    400044: instance_2
+    400046: instance_3
+    400048: instance_4
+    400050: instance_5
+    400052: //RootNode
+    400054: Skeg
+    400056: Skeg 1
+    400058: skp_camera_E_Ortho
+    400060: skp_camera_F_Fl
+    400062: skp_camera_Last_Saved_SketchUp_View
+    400064: skp_camera_N_Ortho
+    400066: skp_camera_S_Ortho
+    400068: skp_camera_SE_Persp
+    400070: skp_camera_SW_Persp
+    400072: skp_camera_W_Ortho
+    400074: String
+    2000000: skp_camera_E_Ortho
+    2000002: skp_camera_F_Fl
+    2000004: skp_camera_Last_Saved_SketchUp_View
+    2000006: skp_camera_N_Ortho
+    2000008: skp_camera_S_Ortho
+    2000010: skp_camera_SE_Persp
+    2000012: skp_camera_SW_Persp
+    2000014: skp_camera_W_Ortho
+    2100000: Wood_Floor_Light
+    2100002: Color_D04
+    2100004: Color_D01
+    2100006: Color_A02
+    2100008: material
+    2300000: Fin_Box
+    2300002: Fin_Box 1
+    2300004: Half_Board
+    2300006: Half_Board 1
+    2300008: ID102
+    2300010: ID108
+    2300012: ID114
+    2300014: ID120
+    2300016: ID134
+    2300018: ID140
+    2300020: ID146
+    2300022: ID152
+    2300024: ID34
+    2300026: ID42
+    2300028: ID50
+    2300030: ID72
+    2300032: ID78
+    2300034: ID84
+    2300036: Skeg
+    2300038: Skeg 1
+    2300040: String
+    3300000: Fin_Box
+    3300002: Fin_Box 1
+    3300004: Half_Board
+    3300006: Half_Board 1
+    3300008: ID102
+    3300010: ID108
+    3300012: ID114
+    3300014: ID120
+    3300016: ID134
+    3300018: ID140
+    3300020: ID146
+    3300022: ID152
+    3300024: ID34
+    3300026: ID42
+    3300028: ID50
+    3300030: ID72
+    3300032: ID78
+    3300034: ID84
+    3300036: Skeg
+    3300038: Skeg 1
+    3300040: String
+    4300000: String
+    4300002: Half_Board
+    4300004: ID34
+    4300006: ID42
+    4300008: ID50
+    4300010: Half_Board
+    4300012: ID72
+    4300014: ID78
+    4300016: ID84
+    4300018: Skeg
+    4300020: ID102
+    4300022: ID108
+    4300024: ID114
+    4300026: ID120
+    4300028: Skeg
+    4300030: ID134
+    4300032: ID140
+    4300034: ID146
+    4300036: ID152
+    4300038: Fin_Box
+    4300040: Fin_Box
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

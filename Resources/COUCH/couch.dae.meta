@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: fd1a6beeff54a604085c70fdfbf855b8
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: base
+    100002: base 1
+    100004: base 2
+    100006: base 3
+    100008: group_0
+    100010: group_1
+    100012: Group_5
+    100014: Group_8
+    100016: Group_8 1
+    100018: Group_8 2
+    100020: Group_8 3
+    100022: ID28
+    100024: ID28 1
+    100026: ID28 2
+    100028: ID28 3
+    100030: instance_0
+    100032: instance_0 1
+    100034: instance_1
+    100036: instance_1 1
+    100038: instance_2
+    100040: instance_3
+    100042: instance_4
+    100044: instance_5
+    100046: instance_6
+    100048: //RootNode
+    100050: skp_camera_Last_Saved_SketchUp_View
+    400000: base
+    400002: base 1
+    400004: base 2
+    400006: base 3
+    400008: group_0
+    400010: group_1
+    400012: Group_5
+    400014: Group_8
+    400016: Group_8 1
+    400018: Group_8 2
+    400020: Group_8 3
+    400022: ID28
+    400024: ID28 1
+    400026: ID28 2
+    400028: ID28 3
+    400030: instance_0
+    400032: instance_0 1
+    400034: instance_1
+    400036: instance_1 1
+    400038: instance_2
+    400040: instance_3
+    400042: instance_4
+    400044: instance_5
+    400046: instance_6
+    400048: //RootNode
+    400050: skp_camera_Last_Saved_SketchUp_View
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2100000: material
+    2100002: __LightGrey_
+    2300000: base
+    2300002: base 1
+    2300004: base 2
+    2300006: base 3
+    2300008: Group_5
+    2300010: Group_8
+    2300012: Group_8 1
+    2300014: Group_8 2
+    2300016: Group_8 3
+    2300018: ID28
+    2300020: ID28 1
+    2300022: ID28 2
+    2300024: ID28 3
+    3300000: base
+    3300002: base 1
+    3300004: base 2
+    3300006: base 3
+    3300008: Group_5
+    3300010: Group_8
+    3300012: Group_8 1
+    3300014: Group_8 2
+    3300016: Group_8 3
+    3300018: ID28
+    3300020: ID28 1
+    3300022: ID28 2
+    3300024: ID28 3
+    4300000: Group_8
+    4300002: base
+    4300004: ID28
+    4300006: Group_5
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

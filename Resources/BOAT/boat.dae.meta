@@ -1,0 +1,316 @@
+fileFormatVersion: 2
+guid: bfbe54eb834f1404f80aa7eb3c88a545
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: boat_half
+    100002: boat_half 1
+    100004: boat_hatch
+    100006: boat_hatch 1
+    100008: boat_top
+    100010: boat_top 1
+    100012: group_0
+    100014: ID101
+    100016: ID107
+    100018: ID115
+    100020: ID12
+    100022: ID121
+    100024: ID127
+    100026: ID133
+    100028: ID139
+    100030: ID145
+    100032: ID159
+    100034: ID165
+    100036: ID171
+    100038: ID177
+    100040: ID18
+    100042: ID183
+    100044: ID189
+    100046: ID195
+    100048: ID201
+    100050: ID207
+    100052: ID213
+    100054: ID219
+    100056: ID225
+    100058: ID231
+    100060: ID237
+    100062: ID24
+    100064: ID251
+    100066: ID251 1
+    100068: ID28
+    100070: ID39
+    100072: ID47
+    100074: ID61
+    100076: ID69
+    100078: ID77
+    100080: ID83
+    100082: ID89
+    100084: ID95
+    100086: instance_0
+    100088: instance_1
+    100090: instance_2
+    100092: instance_3
+    100094: instance_4
+    100096: instance_5
+    100098: //RootNode
+    100100: rudder
+    100102: skp_camera_Last_Saved_SketchUp_View
+    400000: boat_half
+    400002: boat_half 1
+    400004: boat_hatch
+    400006: boat_hatch 1
+    400008: boat_top
+    400010: boat_top 1
+    400012: group_0
+    400014: ID101
+    400016: ID107
+    400018: ID115
+    400020: ID12
+    400022: ID121
+    400024: ID127
+    400026: ID133
+    400028: ID139
+    400030: ID145
+    400032: ID159
+    400034: ID165
+    400036: ID171
+    400038: ID177
+    400040: ID18
+    400042: ID183
+    400044: ID189
+    400046: ID195
+    400048: ID201
+    400050: ID207
+    400052: ID213
+    400054: ID219
+    400056: ID225
+    400058: ID231
+    400060: ID237
+    400062: ID24
+    400064: ID251
+    400066: ID251 1
+    400068: ID28
+    400070: ID39
+    400072: ID47
+    400074: ID61
+    400076: ID69
+    400078: ID77
+    400080: ID83
+    400082: ID89
+    400084: ID95
+    400086: instance_0
+    400088: instance_1
+    400090: instance_2
+    400092: instance_3
+    400094: instance_4
+    400096: instance_5
+    400098: //RootNode
+    400100: rudder
+    400102: skp_camera_Last_Saved_SketchUp_View
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2100000: __CoolGray6_
+    2100002: Brake-Light_Red
+    2100004: __WhiteSmoke_
+    2100006: __Gray_Glass_
+    2100008: __Charcoal_
+    2300000: boat_half
+    2300002: boat_half 1
+    2300004: boat_hatch
+    2300006: boat_hatch 1
+    2300008: boat_top
+    2300010: boat_top 1
+    2300012: group_0
+    2300014: ID101
+    2300016: ID107
+    2300018: ID115
+    2300020: ID12
+    2300022: ID121
+    2300024: ID127
+    2300026: ID133
+    2300028: ID139
+    2300030: ID145
+    2300032: ID159
+    2300034: ID165
+    2300036: ID171
+    2300038: ID177
+    2300040: ID183
+    2300042: ID189
+    2300044: ID195
+    2300046: ID201
+    2300048: ID207
+    2300050: ID213
+    2300052: ID219
+    2300054: ID225
+    2300056: ID231
+    2300058: ID237
+    2300060: ID251
+    2300062: ID251 1
+    2300064: ID39
+    2300066: ID47
+    2300068: ID61
+    2300070: ID69
+    2300072: ID77
+    2300074: ID83
+    2300076: ID89
+    2300078: ID95
+    2300080: rudder
+    3300000: boat_half
+    3300002: boat_half 1
+    3300004: boat_hatch
+    3300006: boat_hatch 1
+    3300008: boat_top
+    3300010: boat_top 1
+    3300012: group_0
+    3300014: ID101
+    3300016: ID107
+    3300018: ID115
+    3300020: ID12
+    3300022: ID121
+    3300024: ID127
+    3300026: ID133
+    3300028: ID139
+    3300030: ID145
+    3300032: ID159
+    3300034: ID165
+    3300036: ID171
+    3300038: ID177
+    3300040: ID183
+    3300042: ID189
+    3300044: ID195
+    3300046: ID201
+    3300048: ID207
+    3300050: ID213
+    3300052: ID219
+    3300054: ID225
+    3300056: ID231
+    3300058: ID237
+    3300060: ID251
+    3300062: ID251 1
+    3300064: ID39
+    3300066: ID47
+    3300068: ID61
+    3300070: ID69
+    3300072: ID77
+    3300074: ID83
+    3300076: ID89
+    3300078: ID95
+    3300080: rudder
+    4300000: group_0
+    4300002: ID12
+    4300004: rudder
+    4300006: ID39
+    4300008: ID47
+    4300010: boat_half
+    4300012: ID61
+    4300014: ID69
+    4300016: ID77
+    4300018: ID83
+    4300020: ID89
+    4300022: ID95
+    4300024: ID101
+    4300026: ID107
+    4300028: ID115
+    4300030: ID121
+    4300032: ID127
+    4300034: ID133
+    4300036: ID139
+    4300038: ID145
+    4300040: boat_half
+    4300042: ID159
+    4300044: ID165
+    4300046: ID171
+    4300048: ID177
+    4300050: ID183
+    4300052: ID189
+    4300054: ID195
+    4300056: ID201
+    4300058: ID207
+    4300060: ID213
+    4300062: ID219
+    4300064: ID225
+    4300066: ID231
+    4300068: ID237
+    4300070: boat_hatch
+    4300072: ID251
+    4300074: boat_top
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.5
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

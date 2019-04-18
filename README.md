@@ -10,7 +10,7 @@ WorldLoader combines two different machine models which in charge of different f
 ## Usage
 1. `git clone`  this project in your Unity Asset Folder
 2. In Unity, add and empty GameObject at where you want to generate the environment.
-![step 2 image](https://github.com/kaichehung/WorldLoader/blob/master/Doc/2.png |width=100 "doc image")
+![step 2 image](https://github.com/kaichehung/WorldLoader/blob/master/Doc/2.png  "doc image")
 3. Attach the script..... in the Script Folder to the GameObject. 
 ![step 3 image](https://github.com/kaichehung/WorldLoader/blob/master/Doc/3.png "doc image")
 4. Drag a picture of an environment to the "environment slot".

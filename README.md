@@ -1,7 +1,7 @@
 # WorldLoader Unity Plugin
 WorldLoader is an machine learning driven Unity plugin which can reconstruct 3D environment in Unity based on a environment picture as input. The goal of this project and tool is to prototype a semantic camera which can be integrated into 3D content creation workflow and accelerate the production process. 
 
-![doc image](https://github.com/kaichehung/WorldLoader/blob/master/Doc/doc.jpg "doc image")
+![doc image](https://github.com/kaichehung/WorldLoader/blob/master/Doc/demoGIF.gif "doc image")
 
 WorldLoader combines two different machine models which in charge of different functionality.
 * "Detectron" in charge for object detection and coodinate of object.

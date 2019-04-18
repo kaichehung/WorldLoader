@@ -10,15 +10,15 @@ WorldLoader combines two different machine models which in charge of different f
 ## Usage
 1. `git clone`  this project in your Unity Asset Folder
 2. In Unity, add and empty GameObject at where you want to generate the environment.
-![step 2 image](https://github.com/kaichehung/WorldLoader/blob/master/Doc/2.png =250x "doc image")
+![step 2 image](https://github.com/kaichehung/WorldLoader/blob/master/Doc/2.png "doc image")
 3. Attach the script..... in the Script Folder to the GameObject. 
-![step 3 image](https://github.com/kaichehung/WorldLoader/blob/master/Doc/3.png =250x "doc image")
+![step 3 image](https://github.com/kaichehung/WorldLoader/blob/master/Doc/3.png "doc image")
 4. Drag a picture of an environment to the "environment slot".
-![step 4 image](https://github.com/kaichehung/WorldLoader/blob/master/Doc/6.png =250x "doc image")
+![step 4 image](https://github.com/kaichehung/WorldLoader/blob/master/Doc/6.png "doc image")
 5. Click "Load Scene" Button to send picture to server ane generate environment.
-![step 5 image](https://github.com/kaichehung/WorldLoader/blob/master/Doc/8.png =250x "doc image")
+![step 5 image](https://github.com/kaichehung/WorldLoader/blob/master/Doc/8.png "doc image")
 6. Environmnet is generated, and ready for manipulate! 
-![step 6 image](https://github.com/kaichehung/WorldLoader/blob/master/Doc/9.png =250x "doc image")
+![step 6 image](https://github.com/kaichehung/WorldLoader/blob/master/Doc/9.png "doc image")
 
 ## Example Project
 [Detectron]()
